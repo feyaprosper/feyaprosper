@@ -1,0 +1,50 @@
+
+body {
+background-color: #F7CAC9;
+color: black;
+font-family: Georgia, Verdana, sans-serif; 
+opacity: 1.0; 
+}
+
+h1{
+color: #AD235E;
+border-bottom: solid 4px;
+border: 1px solid black;
+}
+
+h3{
+font-style: italic;
+font-weight: normal;
+margin-bottom: 4px;
+border-bottom: 1px solid black;	
+}
+sub{
+	font-style: italic;
+	font-size: 2s;
+}
+
+/*stuff*/
+.container {
+           margin: 0 auto;
+           width: 80%; 
+           max-width: 1000px; 
+}
+
+.loud1{
+	 margin: 0 auto;
+     width: 80%;
+     background-color: lightblue; 
+     max-width: 950px; 
+}
+.loud2{
+	 margin: 0 auto;
+     width: 80%;
+     background-color: #F7CAC9; 
+     max-width: 950px; 
+}
+.loud3{
+	 margin: 0 auto;
+     width: 80%;
+     background-color: lightblue; 
+     max-width: 950px; 
+}
